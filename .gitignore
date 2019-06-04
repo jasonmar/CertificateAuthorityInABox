@@ -6,3 +6,7 @@
 *.jar
 *.idea
 target
+*.crt
+*.pem
+*.p12
+*.key
